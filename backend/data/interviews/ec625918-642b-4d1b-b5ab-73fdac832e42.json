@@ -1,0 +1,97 @@
+{
+  "session_id": "ec625918-642b-4d1b-b5ab-73fdac832e42",
+  "candidate_id": "5a968174-493d-4af7-bac0-70f9ead9400e",
+  "role": "Software Engineer",
+  "started_at": "2026-02-05 12:33:44.829912",
+  "completed_at": "2026-02-05 12:35:01.157944",
+  "questions": [
+    {
+      "question_id": "f3a31287-eab8-41d5-995d-fac0003632b4",
+      "question": "Tell me about yourself",
+      "category": "hr",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "d67caf78-13a6-4c2d-b18a-61b6ace90826",
+      "question": "Explain your most complex project",
+      "category": "technical",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "3e3e2a5d-1266-49f6-bfce-f06e28016607",
+      "question": "Tell me about a time you faced conflict in a team",
+      "category": "behavioral",
+      "difficulty": "medium"
+    }
+  ],
+  "answers": [
+    {
+      "question_id": "f3a31287-eab8-41d5-995d-fac0003632b4",
+      "question": "Tell me about yourself",
+      "answer": "i am a cs student",
+      "category": "hr"
+    },
+    {
+      "question_id": "d67caf78-13a6-4c2d-b18a-61b6ace90826",
+      "question": "Explain your most complex project",
+      "answer": "fitness tracker",
+      "category": "technical"
+    },
+    {
+      "question_id": "3e3e2a5d-1266-49f6-bfce-f06e28016607",
+      "question": "Tell me about a time you faced conflict in a team",
+      "answer": "not a time",
+      "category": "behavioral"
+    }
+  ],
+  "evaluation": {
+    "communication_clarity": 6.67,
+    "technical_accuracy": 6.67,
+    "confidence_score": 13.33,
+    "relevance_score": 26.67,
+    "overall_score": 12.0
+  },
+  "feedback": {
+    "candidate_id": "5a968174-493d-4af7-bac0-70f9ead9400e",
+    "timestamp": "2026-02-05 12:35:01.156985",
+    "role": "Software Engineer",
+    "evaluation": {
+      "communication_clarity": 6.67,
+      "technical_accuracy": 6.67,
+      "confidence_score": 13.33,
+      "relevance_score": 26.67,
+      "overall_score": 12.0
+    },
+    "strengths": [
+      "Shows potential for growth"
+    ],
+    "weaknesses": [
+      "Need to improve communication clarity",
+      "Need to strengthen technical fundamentals",
+      "Need to build more confidence in responses"
+    ],
+    "skill_gaps": [
+      "Practice more technical interviews",
+      "Study role-specific concepts"
+    ],
+    "recommendations": [
+      "Practice mock interviews regularly",
+      "Review technical concepts for the role",
+      "Work on communication skills"
+    ],
+    "improvement_roadmap": {
+      "week_1": [
+        "Daily interview practice",
+        "Review technical concepts"
+      ],
+      "week_2_3": [
+        "Mock interviews with peers",
+        "Build portfolio projects"
+      ],
+      "month_1": [
+        "Apply learnings",
+        "Track improvement"
+      ]
+    }
+  }
+}

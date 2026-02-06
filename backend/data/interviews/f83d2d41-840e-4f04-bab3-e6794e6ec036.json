@@ -1,0 +1,97 @@
+{
+  "session_id": "f83d2d41-840e-4f04-bab3-e6794e6ec036",
+  "candidate_id": "a1a23a1a-a584-4077-be8d-bb66933c8255",
+  "role": "ML Engineer",
+  "started_at": "2026-02-05 12:52:00.870548",
+  "completed_at": "2026-02-05 12:52:13.918871",
+  "questions": [
+    {
+      "question_id": "97acbfab-60d3-46ad-859f-2cb614dd14ff",
+      "question": "Tell me about yourself",
+      "category": "hr",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "36e859fc-8526-44e3-9cea-5cce940ad862",
+      "question": "Explain your most complex project",
+      "category": "technical",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "7d609627-cf60-47a8-bf07-9e8ab32edef8",
+      "question": "Tell me about a time you faced conflict in a team",
+      "category": "behavioral",
+      "difficulty": "medium"
+    }
+  ],
+  "answers": [
+    {
+      "question_id": "97acbfab-60d3-46ad-859f-2cb614dd14ff",
+      "question": "Tell me about yourself",
+      "answer": "dasjdj",
+      "category": "hr"
+    },
+    {
+      "question_id": "36e859fc-8526-44e3-9cea-5cce940ad862",
+      "question": "Explain your most complex project",
+      "answer": "haSDHKHS",
+      "category": "technical"
+    },
+    {
+      "question_id": "7d609627-cf60-47a8-bf07-9e8ab32edef8",
+      "question": "Tell me about a time you faced conflict in a team",
+      "answer": "SHAsbjs",
+      "category": "behavioral"
+    }
+  ],
+  "evaluation": {
+    "communication_clarity": 0.0,
+    "technical_accuracy": 0.0,
+    "confidence_score": 0.0,
+    "relevance_score": 0.0,
+    "overall_score": 0.0
+  },
+  "feedback": {
+    "candidate_id": "a1a23a1a-a584-4077-be8d-bb66933c8255",
+    "timestamp": "2026-02-05 12:52:13.917877",
+    "role": "ML Engineer",
+    "evaluation": {
+      "communication_clarity": 0.0,
+      "technical_accuracy": 0.0,
+      "confidence_score": 0.0,
+      "relevance_score": 0.0,
+      "overall_score": 0.0
+    },
+    "strengths": [
+      "Shows potential for growth"
+    ],
+    "weaknesses": [
+      "Need to improve communication clarity",
+      "Need to strengthen technical fundamentals",
+      "Need to build more confidence in responses"
+    ],
+    "skill_gaps": [
+      "Practice more technical interviews",
+      "Study role-specific concepts"
+    ],
+    "recommendations": [
+      "Practice mock interviews regularly",
+      "Review technical concepts for the role",
+      "Work on communication skills"
+    ],
+    "improvement_roadmap": {
+      "week_1": [
+        "Daily interview practice",
+        "Review technical concepts"
+      ],
+      "week_2_3": [
+        "Mock interviews with peers",
+        "Build portfolio projects"
+      ],
+      "month_1": [
+        "Apply learnings",
+        "Track improvement"
+      ]
+    }
+  }
+}

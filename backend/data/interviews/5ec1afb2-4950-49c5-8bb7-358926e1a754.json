@@ -1,0 +1,97 @@
+{
+  "session_id": "5ec1afb2-4950-49c5-8bb7-358926e1a754",
+  "candidate_id": "6bed90cd-1abb-4fb8-a213-7463a1038184",
+  "role": "Software Engineer",
+  "started_at": "2026-02-05 15:54:44.805489",
+  "completed_at": "2026-02-05 15:56:50.448345",
+  "questions": [
+    {
+      "question_id": "b60c3f17-891c-4c30-bac8-c644fdbac6c1",
+      "question": "Tell me about yourself",
+      "category": "hr",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "8bc3393a-3521-4d23-a986-bdcde7d6d87e",
+      "question": "Explain your most complex project",
+      "category": "technical",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "24b90d26-b29c-456f-9fd9-ea8fbde844cd",
+      "question": "Tell me about a time you faced conflict in a team",
+      "category": "behavioral",
+      "difficulty": "medium"
+    }
+  ],
+  "answers": [
+    {
+      "question_id": "b60c3f17-891c-4c30-bac8-c644fdbac6c1",
+      "question": "Tell me about yourself",
+      "answer": "I\u2019m a Software Engineer with a strong foundation in Python and applied machine learning, and I enjoy building practical, end-to-end software solutions. My experience includes developing data-driven applications, working with APIs, and integrating machine learning models into real systems rather than keeping them at a theoretical level.\r\n\r\nI\u2019ve worked on projects involving computer vision, time-series analysis, and intelligent automation, where I focused not only on model performance but also on clean code, scalability, and deployment readiness. I\u2019m comfortable working with tools like Python, Git, SQL, and modern ML frameworks, and I\u2019ve collaborated in team environments where clear communication and version control are essential.\r\n\r\nWhat sets me apart is my problem-solving mindset\u2014I like understanding the business or user requirement first, then choosing the right technical approach instead of over-engineering solutions. I\u2019m continuously learning and improving my skills, and I\u2019m now looking for a role where I can contribute to impactful software products while growing as an engineer.",
+      "category": "hr"
+    },
+    {
+      "question_id": "8bc3393a-3521-4d23-a986-bdcde7d6d87e",
+      "question": "Explain your most complex project",
+      "answer": "One of the most complex projects I worked on was building an AI-driven intelligent lead qualification and matching system designed to automatically evaluate and rank incoming business leads.\r\n\r\nThe complexity came from combining multiple components into a single production-ready pipeline. The system processed unstructured text inputs, extracted meaningful features using transformer-based language models, and then applied a dual-target learning approach to predict both lead quality and business relevance. On top of that, I designed a custom business logic wrapper that incorporated factors like industry type, company size, geographic region, and decision-maker authority to produce a final actionable score.\r\n\r\nFrom a software engineering perspective, I focused heavily on modular architecture, clean APIs, and reproducibility. The pipeline handled data ingestion, preprocessing, model inference, evaluation, and batch scoring at scale, with automated result logging and reporting. Performance monitoring and error handling were also built in to ensure stability during real-world usage.\r\n\r\nWhat made this project particularly challenging was balancing model accuracy with interpretability and business usability. I addressed this by adding clear scoring breakdowns and confidence indicators, which made the system easier for non-technical stakeholders to trust and use. This project significantly reduced manual review effort and demonstrated how machine learning can be integrated into reliable, real-world software systems.",
+      "category": "technical"
+    },
+    {
+      "question_id": "24b90d26-b29c-456f-9fd9-ea8fbde844cd",
+      "question": "Tell me about a time you faced conflict in a team",
+      "answer": "In one project, our team had a disagreement about how to approach model evaluation and data labeling. Some team members wanted to move quickly using auto-generated labels, while others\u2014including me\u2014were concerned about accuracy and long-term reliability.\r\n\r\nTo address the conflict, I suggested we pause development briefly and run a small, controlled audit. I created a comparison between auto-generated labels and verified samples, shared the results with the team, and explained the trade-offs clearly in terms of accuracy versus speed.\r\n\r\nThis shifted the discussion from opinions to evidence. As a result, we agreed on a hybrid approach\u2014using verified labels for critical decisions and automated labels for exploratory analysis. The project moved forward with better alignment, improved trust within the team, and higher-quality results.\r\n\r\nThis experience taught me that handling conflict effectively isn\u2019t about winning an argument\u2014it\u2019s about creating clarity, using data to guide decisions, and keeping the team focused on shared goals.",
+      "category": "behavioral"
+    }
+  ],
+  "evaluation": {
+    "communication_clarity": 90.0,
+    "technical_accuracy": 85.0,
+    "confidence_score": 87.33,
+    "relevance_score": 96.0,
+    "overall_score": 88.92
+  },
+  "feedback": {
+    "candidate_id": "6bed90cd-1abb-4fb8-a213-7463a1038184",
+    "timestamp": "2026-02-05 15:56:50.447387",
+    "role": "Software Engineer",
+    "evaluation": {
+      "communication_clarity": 90.0,
+      "technical_accuracy": 85.0,
+      "confidence_score": 87.33,
+      "relevance_score": 96.0,
+      "overall_score": 88.92
+    },
+    "strengths": [
+      "Clear and articulate communication",
+      "Strong technical knowledge",
+      "Confident presentation"
+    ],
+    "weaknesses": [
+      "Continue practicing interview skills"
+    ],
+    "skill_gaps": [
+      "Practice more technical interviews",
+      "Study role-specific concepts"
+    ],
+    "recommendations": [
+      "Practice mock interviews regularly",
+      "Review technical concepts for the role",
+      "Work on communication skills"
+    ],
+    "improvement_roadmap": {
+      "week_1": [
+        "Daily interview practice",
+        "Review technical concepts"
+      ],
+      "week_2_3": [
+        "Mock interviews with peers",
+        "Build portfolio projects"
+      ],
+      "month_1": [
+        "Apply learnings",
+        "Track improvement"
+      ]
+    }
+  }
+}
