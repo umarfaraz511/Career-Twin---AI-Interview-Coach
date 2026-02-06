@@ -335,14 +335,3 @@ For questions, feedback, or collaboration:
 ```
 
 ---
-
-# GitHub Repository Description (Short)
-```
-🎯 AI-powered interview coach built with FastAPI, React & GPT-4. Smart resume analysis, role-specific questions, real-time evaluation & personalized feedback. Full-stack ML application with ChromaDB vector search.
-```
-
----
-
-# GitHub Topics/Tags
-```
-ai, machine-learning, fastapi, react, openai, gpt-4, interview-preparation, nlp, vector-database, chromadb, full-stack, python, javascript, career-development, recruitment-tool
