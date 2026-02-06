@@ -216,19 +216,8 @@ console.log(session.questions);
 
 ---
 
-## 🎨 Screenshots
 
-### Home Page
-![Home Page](https://via.placeholder.com/800x450/667eea/ffffff?text=Home+Page)
 
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x450/667eea/ffffff?text=Dashboard)
-
-### Interview Session
-![Interview](https://via.placeholder.com/800x450/667eea/ffffff?text=Interview)
-
-### Feedback Report
-![Feedback](https://via.placeholder.com/800x450/667eea/ffffff?text=Feedback)
 
 ---
 
@@ -304,6 +293,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - FastAPI community for the amazing framework
 
 ---
+
+## 🎨 Screenshots
 <img width="960" height="455" alt="C-1" src="https://github.com/user-attachments/assets/93c8adfe-daf0-4fc2-9f52-23c010ec8022" />
 <img width="904" height="400" alt="C-2" src="https://github.com/user-attachments/assets/62ae67b7-3164-4a7e-a91e-3fc7db0fb98a" />
 <img width="695" height="440" alt="C-3" src="https://github.com/user-attachments/assets/1b0ba079-ca60-41f4-a9a8-33889c1ee1ee" />
